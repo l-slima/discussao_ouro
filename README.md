@@ -1,4 +1,4 @@
-# Previsão do preço do ouro
+# Discussões sobre o ouro
 
 ## Introdução
 O ouro é um dos ativos mais antigos e simbólicos do sistema financeiro mundial, utilizado há milênios como meio de troca, reserva de valor e proteção contra crises econômicas. Diferente de ativos produtivos, como ações ou imóveis, seu valor está fortemente associado à percepção de escassez, à demanda industrial e, principalmente, ao seu papel como “porto seguro” em momentos de instabilidade política e financeira.
